@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ARCHANGEL</Machine>
+    <WindowsUser>ARCHANGEL</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>bf6dd713-c5b7-4793-a72f-c1ea87e9dadb</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Radi\Documents\Visual Studio 2013\Projects\WindowsControls\MixComboBox\obj\Release\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>95BF350F5F4F0098E5FA4F781269C059333C4381D806A6B19897C0DF0AF9A764</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>bf6dd713-c5b7-4793-a72f-c1ea87e9dadb_1.0.0.0_neutral__0v2eba8sb5typ</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>bf6dd713-c5b7-4793-a72f-c1ea87e9dadb_0v2eba8sb5typ!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>bf6dd713-c5b7-4793-a72f-c1ea87e9dadb</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=ARCHANGEL</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Radi\Documents\Visual Studio 2013\Projects\WindowsControls\MixComboBox\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-14T09:16:52.082</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Radi\Documents\Visual Studio 2013\Projects\WindowsControls\MixComboBox\bin\Release\MixComboBox.exe">
+      <PackagePath>MixComboBox.exe</PackagePath>
+      <Modified>2014-11-14T09:16:51.461</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radi\Documents\Visual Studio 2013\Projects\WindowsControls\MixComboBox\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radi\Documents\Visual Studio 2013\Projects\WindowsControls\MixComboBox\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radi\Documents\Visual Studio 2013\Projects\WindowsControls\MixComboBox\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radi\Documents\Visual Studio 2013\Projects\WindowsControls\MixComboBox\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radi\Documents\Visual Studio 2013\Projects\WindowsControls\MixComboBox\Images\bugatti.jpg">
+      <PackagePath>Images\bugatti.jpg</PackagePath>
+      <Modified>2014-11-14T09:07:29.614</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radi\Documents\Visual Studio 2013\Projects\WindowsControls\MixComboBox\Images\ferrary.jpg">
+      <PackagePath>Images\ferrary.jpg</PackagePath>
+      <Modified>2014-11-14T08:03:24.413</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radi\Documents\Visual Studio 2013\Projects\WindowsControls\MixComboBox\Images\lamborghini.jpg">
+      <PackagePath>Images\lamborghini.jpg</PackagePath>
+      <Modified>2014-11-14T08:03:24.433</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radi\Documents\Visual Studio 2013\Projects\WindowsControls\MixComboBox\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-14T09:16:50.744</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radi\Documents\Visual Studio 2013\Projects\WindowsControls\MixComboBox\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-14T09:16:50.744</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radi\Documents\Visual Studio 2013\Projects\WindowsControls\MixComboBox\bin\Release\MixComboBox.xr.xml">
+      <PackagePath>MixComboBox.xr.xml</PackagePath>
+      <Modified>2014-11-14T09:16:50.720</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radi\Documents\Visual Studio 2013\Projects\WindowsControls\MixComboBox\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-14T09:16:51.759</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ARCHANGEL</Machine>
+    <WindowsUser>ARCHANGEL</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>08545f81-0dfa-4c49-ad1b-aae91332da5f</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Radi\documents\visual studio 2013\Projects\WindowsControls\TextSelection\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C9BCA68BD0E85F4B90EB1E0B1DAF0AF14959B860E87FD8B85B5842B75BA4C6E2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>08545f81-0dfa-4c49-ad1b-aae91332da5f_1.0.0.0_neutral__0v2eba8sb5typ</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>08545f81-0dfa-4c49-ad1b-aae91332da5f_0v2eba8sb5typ!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>08545f81-0dfa-4c49-ad1b-aae91332da5f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=ARCHANGEL</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Radi\documents\visual studio 2013\Projects\WindowsControls\TextSelection\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-14T03:11:16.151</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Radi\documents\visual studio 2013\Projects\WindowsControls\TextSelection\bin\Debug\TextSelection.exe">
+      <PackagePath>TextSelection.exe</PackagePath>
+      <Modified>2014-11-14T09:34:01.774</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radi\documents\visual studio 2013\Projects\WindowsControls\TextSelection\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radi\documents\visual studio 2013\Projects\WindowsControls\TextSelection\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radi\documents\visual studio 2013\Projects\WindowsControls\TextSelection\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radi\documents\visual studio 2013\Projects\WindowsControls\TextSelection\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radi\documents\visual studio 2013\Projects\WindowsControls\TextSelection\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-14T03:11:13.341</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radi\documents\visual studio 2013\Projects\WindowsControls\TextSelection\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-14T09:30:42.091</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radi\documents\visual studio 2013\Projects\WindowsControls\TextSelection\bin\Debug\TextSelection.xr.xml">
+      <PackagePath>TextSelection.xr.xml</PackagePath>
+      <Modified>2014-11-14T04:09:28.543</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Radi\documents\visual studio 2013\Projects\WindowsControls\TextSelection\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-14T03:11:15.104</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
